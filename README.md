@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdwardT2021
-- 👀 I’m interested in Games Development, in Python and C++
-- 🌱 I’m currently learning pygame and C++
+- 👀 I’m interested in Games Development, in Python and Java
+- 🌱 I’m currently learning Android Studio with Java
 - 💞️ I’m looking to collaborate on any type of game
 - 📫 How to reach me: email me at edward_thomas@outlook.com
 
